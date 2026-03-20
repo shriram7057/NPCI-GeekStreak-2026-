@@ -1,164 +1,196 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="250" style="margin-right:5 px;" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/GFG%20Coin.gif?raw=true" width="150" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GeekStreak%202026&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NPCI%20×%20GeeksforGeeks%20%E2%80%94%2060%20Days%20POTD%20Challenge&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<h1 align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗲𝗲𝗸𝘀𝗳𝗼𝗿𝗚𝗲𝗲𝗸𝘀 𝗡𝗣𝗖𝗜 𝗚𝗲𝗲𝗸𝗦𝘁𝗿𝗲𝗮𝗸 𝟮𝟬𝟮𝟲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆! 💡⚡</h1>
+<br/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&pause=1200&color=C9A84C&center=true&vCenter=true&width=700&lines=Solving+One+Problem+Every+Single+Day;60+Days+of+Pure+Consistency+%26+Discipline;Data+Structures+%E2%80%A2+Algorithms+%E2%80%A2+Excellence" alt="Typing SVG" />
 
-## 🏆 60 Days POTD Challenge Powered by NPCI
-</p>
-𝗧𝗵𝗶𝘀 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗶𝘀 𝗽𝗮𝗿𝘁 𝗼𝗳 𝘁𝗵𝗲 𝟲𝟬 𝗗𝗮𝘆𝘀 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗮𝘆 (𝗣𝗢𝗧𝗗) 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗰𝗼𝗻𝗱𝘂𝗰𝘁𝗲𝗱 𝗯𝘆 𝗚𝗲𝗲𝗸𝘀𝗳𝗼𝗿𝗚𝗲𝗲𝗸𝘀 𝗶𝗻 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗡𝗣𝗖𝗜.
+<br/><br/>
 
-<h2>📅 Challenge Overview</h2>
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th>Field</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td>Start Date</td>
-    <td>13 February 2026</td>
-  </tr>
-  <tr>
-    <td>Duration</td>
-    <td>60 Consecutive Days</td>
-  </tr>
-  <tr>
-    <td>Platform</td>
-    <td>GeeksforGeeks</td>
-  </tr>
-  <tr>
-    <td>Goal</td>
-    <td>Maintain a 60-day uninterrupted problem-solving streak</td>
-  </tr>
+![Streak Badge](https://img.shields.io/badge/🔥_Active_Streak-60_Days-C9A84C?style=for-the-badge&labelColor=0d0d0d)
+![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-2F8D46?style=for-the-badge&labelColor=0d0d0d&logo=geeksforgeeks&logoColor=white)
+![Sponsor](https://img.shields.io/badge/Powered_By-NPCI-003366?style=for-the-badge&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-In_Progress-gold?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Challenge Overview ✦
+
+</div>
+
+<div align="center">
+
+| ◈ Field | ◈ Details |
+|:---:|:---:|
+| 📅 **Start Date** | `13 February 2026` |
+| ⏳ **Duration** | `60 Consecutive Days` |
+| 🖥️ **Platform** | `GeeksforGeeks` |
+| 🎯 **Mission** | Maintain an uninterrupted 60-day problem-solving streak |
+| 🤝 **In Partnership With** | National Payments Corporation of India (NPCI) |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Rules I Follow ✦
+
+</div>
+
+```
+  ① Solve the GeeksforGeeks Problem of the Day — every single day, no exceptions
+  ② Maintain a clean, organized solution log in this repository
+  ③ Upload daily screenshots as tamper-proof proof of completion
+  ④ Share daily progress on LinkedIn to stay publicly accountable
+  ⑤ Tag posts with  #geekstreak60  and  #npci
+  ⑥ Mention official handles of @GeeksforGeeks and @NPCI
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Why I Do This ✦
+
+</div>
+
+<table align="center" border="0" cellpadding="12">
+<tr>
+<td align="center">
+
+🧠 **Master DSA**
+<br/>
+<sub>Build deep, unshakeable<br/>algorithmic foundations</sub>
+
+</td>
+<td align="center">
+
+⚡ **Sharpen Logic**
+<br/>
+<sub>Optimize thinking speed<br/>and precision under pressure</sub>
+
+</td>
+<td align="center">
+
+🔥 **Build Discipline**
+<br/>
+<sub>Forge daily habits that<br/>compound over time</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🎯 **Interview Ready**
+<br/>
+<sub>Prepare for elite technical<br/>interviews at top firms</sub>
+
+</td>
+<td align="center">
+
+🏆 **Peak Performance**
+<br/>
+<sub>Elevate accuracy and speed<br/>in competitive problem-solving</sub>
+
+</td>
+<td align="center">
+
+📈 **Track Growth**
+<br/>
+<sub>A living record of progress,<br/>day by day</sub>
+
+</td>
+</tr>
 </table>
 
-<h2>📢 Participation Rules Followed</h2>
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th>No</th>
-    <th>Rule</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Solved GeeksforGeeks POTD daily</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Maintained solution record in repository</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Uploaded daily screenshots for verification</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Posted daily progress on LinkedIn</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Used hashtags: #geekstreak60 and #npci</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Tagged official handles of GeeksforGeeks and NPCI</td>
-  </tr>
-</table>
+<br/>
 
-<h2>🎯 Objective of This Challenge</h2>
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th>No</th>
-    <th>Objective</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Strengthen Data Structures & Algorithms</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Improve logical thinking & optimization skills</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Build discipline through daily consistency</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Prepare for technical interviews</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Enhance problem-solving speed & accuracy</td>
-  </tr>
-</table>
+---
 
-## 🧑‍💻𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
-      <b>C</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
-      <b>Python</b>
-    </td>
-  </tr>
-</table>
+## ✦ Armory — Primary Languages ✦
 
-<h3 align="left">🤝 Connect with Me</h3>
+<br/>
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" height="52"/>
 
-<a href="https://github.com/shriram7057" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
-</a>
+<br/><br/>
 
-<a href="https://linkedin.com/in/Shriram%20Lahane" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
+![C](https://img.shields.io/badge/C-Proficient-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0d0d0d)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d0d0d)
+![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d0d0d)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d)
 
-<a href="https://kaggle.com/shriramlahane" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-</a>
+</div>
 
-<a href="https://instagram.com/pvt.shree_01" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
+<br/>
 
-<a href="https://leetcode.com/shriram-01" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
+---
 
-<a href="https://auth.geeksforgeeks.org/user/shriram01" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="70"/>
-</a>
+<div align="center">
 
-<a href="https://discord.com/shriram_79991" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
-</a>
+## ✦ Progress Tracker ✦
 
-<a href="https://hackerrank.com/@lahaneshriram2" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-</a>
+<br/>
 
-</p>
-<br>
-⭐ This repository serves as a public proof of my commitment to continuous learning and coding excellence.
-</br>
+![Progress](https://img.shields.io/badge/Progress-◼◼◼◼◼◼◼◼◼◼◻◻◻◻◻◻◻◻◻◻-C9A84C?style=for-the-badge&labelColor=0d0d0d)
 
+<br/>
 
+> *"The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and starting on the first one."*
+>
+> — Mark Twain
 
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ✦ Find Me Across the Web ✦
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-shriram7057-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/shriram7057)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shriram_Lahane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/Shriram%20Lahane)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shriram--01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d)](https://leetcode.com/shriram-01)
+
+<br/>
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-shriram01-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d)](https://auth.geeksforgeeks.org/user/shriram01)
+[![HackerRank](https://img.shields.io/badge/HackerRank-lahaneshriram2-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d)](https://hackerrank.com/@lahaneshriram2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shriramlahane-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d0d0d)](https://kaggle.com/shriramlahane)
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-pvt.shree__01-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/pvt.shree_01)
+[![Discord](https://img.shields.io/badge/Discord-shriram__79991-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com/shriram_79991)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Consistency+is+the+ultimate+superpower.&fontSize=16&fontColor=C9A84C&fontAlignY=65" width="100%"/>
+
+<sub>⭐ This repository is a living testament to continuous learning, discipline, and coding excellence. <br/> If it inspired you — leave a star and start your own streak.</sub>
+
+</div>
