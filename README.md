@@ -1,6 +1,7 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GeekStreak%202026&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NPCI%20×%20GeeksforGeeks%20%E2%80%94%2060%20Days%20POTD%20Challenge&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src ="https://github.com/shriram7057/shriram7057/blob/main/GFG%2060%20D%20POTD.jpeg?raw=true"width="650">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GeekStreak%202026&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NPCI%20×%20GeeksforGeeks%20%E2%80%94%2060%20Days%20POTD%20Challenge&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/> -->
 
 <br/>
 
