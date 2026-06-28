@@ -6,7 +6,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
        alt="GeeksforGeeks Logo"
-       width="150" />
+       width="170" />
 
   <h1> 
 
@@ -14,11 +14,6 @@
 
   <p>
     <strong>Data Structures & Algorithms Journey Repository</strong>
-  </p>
-
-  <p>
-    🏫 Sinhgad College of Engineering (SCOE), Pune <br>
-    📚 GeeksforGeeks DSA Learning Path 2k26
   </p>
 
 </div>
