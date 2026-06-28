@@ -1,134 +1,34 @@
+<!-- ===================================================== -->
+<!--        GeeksforGeeks DSA Learning Path 2k26           -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="120" alt="GeeksforGeeks Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+       alt="GeeksforGeeks Logo"
+       width="150" />
+
+  <h1> 
 
 # NPCI GeekStreak 2026
 
-**Optimized Data Structures & Algorithms Solutions for NPCI GeekStreak 2026**
+  <p>
+    <strong>Data Structures & Algorithms Journey Repository</strong>
+  </p>
+
+  <p>
+    🏫 Sinhgad College of Engineering (SCOE), Pune <br>
+    📚 GeeksforGeeks DSA Learning Path 2k26
+  </p>
 
 </div>
 
 ---
 
-## 📌 Overview
+## Overview
 
-This repository contains optimized solutions to Data Structures and Algorithms problems solved during **NPCI GeekStreak 2026**. The solutions focus on efficiency, clean implementation, and competitive programming best practices.
+This repository contains my optimized solutions to the **NPCI GeekStreak 2026** challenge organized by **GeeksforGeeks**. It is a curated collection of Data Structures and Algorithms problems solved throughout the challenge, with an emphasis on writing clean, efficient, and well-structured code. Each solution is designed by considering optimal time and space complexity while following competitive programming best practices. The repository covers a wide range of DSA topics, making it a valuable resource for interview preparation, competitive programming, and concept revision. It also serves as a record of my consistency, problem-solving journey, and continuous learning during the NPCI GeekStreak 2026 challenge.
 
-### 🚀 Highlights
-
-- Optimized DSA solutions
-- Multiple programming languages
-- Interview & competitive programming oriented
-- Clean and maintainable code
-- Covers Arrays, Strings, Trees, and Dynamic Programming
-
----
-
-## 🛠️ Tech Stack
-
-| Language | Usage |
-|-----------|--------|
-| Python | Primary implementations |
-| C++ | High-performance solutions |
-| Java | Alternative OOP implementations |
-
----
-
-## 📚 Problems Solved
-
-### Strings
-- Gray Code
-- Anagram Palindrome
-- Next Smallest Palindrome
-
-### Arrays
-- Segregate 0s and 1s
-- Sum of Subarray Minimums
-- Count Subarrays with Given XOR
-- Pythagorean Triplet
-
-### Trees
-- Minimum Height Roots
-- Distribute Candies
-
-### Dynamic Programming
-- Consecutive 1's Not Allowed
-
----
-
-## ⚡ Concepts Used
-
-- Two Pointer Technique
-- Hash Maps
-- Prefix XOR
-- DFS & BFS
-- Dynamic Programming
-- Bit Manipulation
-- Stack-Based Algorithms
-
----
-
-## 📂 Repository Structure
-
-```text
-NPCI GeekStreak 2026/
-├── Gray Code.py
-├── Segregate 0s and 1s.cpp
-├── Next Smallest Palindrome.py
-├── Minimum height roots.py
-├── Distribute Candies.py
-├── Anagram Palindrome.py
-├── Pythagorean Triplet.py
-├── Sum of subarray minimums.py
-├── Count Subarrays with given XOR.py
-└── Consecutive 1's not allowed.py
-````
-
-## ▶️ Run Locally
-
-### Python
-
-```bash
-python filename.py
-```
-
-### C++
-
-```bash
-g++ filename.cpp -o output
-./output
-```
-
-### Java
-
-```bash
-javac FileName.java
-java FileName
-```
-
----
-
-## 📊 Repository Stats
-
-| Metric       | Value                         |
-| ------------ | ----------------------------- |
-| Created      | February 2026                 |
-| Last Updated | May 2026                      |
-| Languages    | Python, C++, Java             |
-| Category     | DSA & Competitive Programming |
-
----
-
-## 👨‍💻 Author
-
-**Shriram Lahane**
-
-GitHub: https://github.com/shriram-02
-
-Repository: https://github.com/shriram-02/NPCI-GeekStreak-2026-
-
----
 <div align="center">
 <h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝</h3>
 
@@ -157,10 +57,4 @@ Repository: https://github.com/shriram-02/NPCI-GeekStreak-2026-
   <a href="https://instagram.com/pvt.shree_01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="32"/>
   </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/shriram_79991" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="32" width="32"/>
-  </a>
-</div>
 
