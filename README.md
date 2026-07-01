@@ -8,8 +8,6 @@
        alt="GeeksforGeeks Logo"
        width="170" />
 
-  <h1> 
-
 # NPCI GeekStreak 2026
 
   <p>
