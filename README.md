@@ -3,8 +3,7 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+       <img src="https://github.com/shriram-02/shriram-02/blob/main/GFG%20Expert%20POTD%20Solver%20Badge.png?raw=true"
        alt="GeeksforGeeks Logo"
        width="170" />
 
