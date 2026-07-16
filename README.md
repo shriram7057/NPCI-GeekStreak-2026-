@@ -17,9 +17,12 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
-This repository contains my optimized solutions to the **NPCI GeekStreak 2026** challenge organized by **GeeksforGeeks**. It is a curated collection of Data Structures and Algorithms problems solved throughout the challenge, with an emphasis on writing clean, efficient, and well-structured code. Each solution is designed by considering optimal time and space complexity while following competitive programming best practices. The repository covers a wide range of DSA topics, making it a valuable resource for interview preparation, competitive programming, and concept revision. It also serves as a record of my consistency, problem-solving journey, and continuous learning during the NPCI GeekStreak 2026 challenge.
+This repository contains my optimized solutions to the **NPCI GeekStreak 2026** challenge organized by **GeeksforGeeks**. It serves as a **curated collection of Data Structures and Algorithms (DSA) problems**, solved with a focus on writing **clean, efficient, and well-structured code**. Each solution is carefully designed to achieve **optimal time and space complexity** while adhering to **competitive programming best practices**.  
+
+The repository spans a **wide range of DSA topics**, making it a valuable resource for **interview preparation, competitive programming, and concept revision**. Beyond technical solutions, it also reflects my **consistency, problem-solving journey, and continuous learning** throughout the **NPCI GeekStreak 2026 challenge**. This project highlights not only my technical growth but also my commitment to **discipline, optimization, and mastery of core computer science fundamentals**.
+
 
 <div align="center">
 <h3>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 🤝</h3>
